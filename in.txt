@@ -1,0 +1,17 @@
+HEADER
+Jackhammer Boost 
+7.5
+
+WRITEUP
+In the start room, [Slam Store](/speedrun-tech#slam-storage) and [Dive](/speedrun-tech#dives) through the opening doors.
+Look up and [ULTRABOOST](/speedrun-tech#ub-ultraboost). You may do either the [glasspunch](#glasspunch) or [no glasspunch](#no-glasspunch) variation.
+After [UBing](/speedrun-tech#ub-ultraboost), swap to the alternate shotgun (it doesn't matter which variation) and charge the primary fire. Dash and slide through the door, quickly flick around, and hit one of the Strays with the Jackhammer. If done correctly, you will be launched toward the checkpoint.
+
+VIDEO
+https://i.imgur.com/COHg6rH.mp4
+
+ALERT
+CAUTION
+For whatever reason, you **must** quickly swap to another weapon after hitting the Stray with the Jackhammer. Failing to do so will result in significantly less speed, roughly _70-80_ hu/s rather than _160-180_ hu/s.
+TIPS
+You must time your dash right so that you can slide under the door. If you have to slam or are too far from the door, you won't have a red gauge on your jackhammer.
